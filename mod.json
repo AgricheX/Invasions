@@ -1,0 +1,8 @@
+{
+  "name": "Invasions",
+  "author": "Agriche",
+  "version": "0.0.3",
+  "description": "This mod adds bigger invasions to WorldBox!",
+  "targetGameBuild": 558,
+  "iconPath": "icon.png"
+}
