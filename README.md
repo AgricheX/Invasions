@@ -4,7 +4,7 @@
 
 > Bigger invasions for WorldBox: demon, walker and assimilator armies in 9 levels each, dragon attacks and ice weapons.
 
-**[Download Invasions 0.0.3](https://github.com/AgricheX/invasions/releases/latest/download/Invasions.zip)**
+**[Download Invasions 0.0.3](https://github.com/AgricheX/Invasions/releases/latest/download/Invasions.zip)**
 
 | | |
 | --- | --- |
